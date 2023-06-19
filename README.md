@@ -12,5 +12,12 @@ https://github.com/ZLMediaKit/ZLMediaKit
 ## srt</br>
 srt 协议库: https://github.com/Haivision/srt</br>
 
+## sqlite orm 框架 </br>
+c++：https://github.com/fnc12/sqlite_orm </br>
+c# sqlite-net https://github.com/praeclarum/sqlite-net </br>
+
+
+
+
 
 
